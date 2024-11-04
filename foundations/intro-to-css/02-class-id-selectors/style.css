@@ -1,0 +1,20 @@
+
+.pink{
+    background-color:  #ed72a870   ;
+    font-family: "Verdana","DejaVu Sans", sans-serif;
+}
+
+#second-element{
+    color: #001f8d;
+    font-size: 36px;
+}
+
+.pink.third_element{
+    font-size: 24px;
+}
+
+#fourth-element{
+    background-color: #5fff5f;
+    font-size: 24px;
+    font-weight: bold;
+}
