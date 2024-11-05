@@ -1,16 +1,16 @@
-
-.first-element{
-    background-color: hsl(0, 0%, 0%);
-    color: #FFFF;
+.first-element {
+  background-color: hsl(0, 0%, 0%);
+  color: #ffff;
 }
 
-.second-element{
-    background-color: #ffee00;
+.second-element {
+  background-color: #ffee00;
 }
 
-.first-element,.second-element{
-    font-size: 28px;
-    font-family: Helvetica, "Times New Roman", sans-serif;
+.first-element,
+.second-element {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
 /* 
